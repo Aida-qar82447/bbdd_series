@@ -1,2 +1,2 @@
-\# BB\_DD Series
+# BB_DD Series
 
